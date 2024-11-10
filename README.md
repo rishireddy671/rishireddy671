@@ -8,7 +8,7 @@
   <a href="mailto:iamrishik2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/rishireddy671"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="[your-resume-link]"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"></a>
+  <a href="[your-resume-link]"><img src="https://drive.google.com/file/d/1Bel0Um4JrDgoyyNWTlJJ-RwW4vRavGba/view?usp=sharing"></a>
 </p>
 
 ---
