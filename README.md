@@ -1,7 +1,5 @@
 # Hi there, I'm Rishik Reddy Lekireddy! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/banner-placeholder) <!-- Add your custom banner URL here -->
-
 ### 👨‍💻 Computer Science Student | Aspiring Software Engineer | Data Enthusiast
 
 <p align="left">
@@ -10,8 +8,6 @@
   <a href="https://github.com/rishireddy671"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://drive.google.com/file/d/1Bel0Um4JrDgoyyNWTlJJ-RwW4vRavGba/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"></a>
 </p>
-
-![Profile Picture](https://user-images.githubusercontent.com/profile-pic-placeholder) <!-- Add your profile picture URL here -->
 
 ---
 
@@ -50,7 +46,7 @@ Java-based system for managing university operations such as student and faculty
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Java, Python
+- **Languages**: Java
 - **Databases**: MySQL
 - **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib
 - **Dev Tools**: VS Code, GitHub, StarUML
